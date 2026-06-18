@@ -1,0 +1,9 @@
+{
+  "name": "design-web-marketing",
+  "version": "0.1.0",
+  "description": "Landing pages, sites e marketing de conversão de ponta a ponta: um maestro orquestra o caminho (contexto do negócio → oferta → copy → construir → revisar → publicar) e chama cada skill especialista na hora certa. A voz e o modelo de negócio saem do contexto que VOCÊ gera (skill product-marketing), então a copy sai adaptada ao seu negócio — serviço, curso, coaching, high-ticket ou SaaS. Inclui: maestro (orquestrador + roteamento + travas), product-marketing (monta o contexto do negócio que as outras leem), offers (estrutura a oferta: bônus, garantia, escassez, pagamento), copywriting (escreve copy de página do zero), copy-editing (lapida copy existente em 7 filtros), cro (diagnostica por que a página não converte), marketing-psychology (gatilhos e modelos de persuasão) e customer-research (acha a linguagem real do público). As 7 skills de marketing são adaptadas de coreyhaines31/marketingskills (licença MIT — ver CREDITS.md).",
+  "author": {
+    "name": "Cassiano Diniz",
+    "email": "cassi.diniz@gmail.com"
+  }
+}
