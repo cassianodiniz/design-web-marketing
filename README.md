@@ -6,6 +6,18 @@ Um **maestro** conduz o caminho e chama a skill especialista certa em cada etapa
 modelo de negócio saem do **seu** contexto (gerado pela skill `product-marketing`), então a copy
 sai adaptada ao seu negócio — não a um SaaS genérico.
 
+## ⚡ Instalar (copia e cola)
+
+No Claude Code, cola uma linha por vez:
+
+```
+/plugin marketplace add cassianodiniz/cassiano.diniz
+/plugin install design-web-marketing@cassiano.diniz
+```
+
+Depois **reinicie o Claude Code**. Comece rodando `design-web-marketing:product-marketing` uma vez
+— ela cria o contexto do seu negócio (`.agents/product-marketing.md`) que todas as outras skills leem.
+
 ## Como usar
 
 Acione o maestro quando não souber por onde começar ou quiser o caminho inteiro:
